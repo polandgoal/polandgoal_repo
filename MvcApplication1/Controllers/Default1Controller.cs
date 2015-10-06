@@ -16,5 +16,10 @@ namespace MvcApplication1.Controllers
             return View();
         }
 
+        public string About()
+        {
+            return "dupa po raz pierwszy";
+        }
+
     }
 }
