@@ -21,5 +21,11 @@ namespace MvcApplication1.Controllers
             return "dupa po raz pierwszy";
         }
 
+        public string Print()
+        {
+            return "dupa po raz drugi";
+        }
+
+
     }
 }
